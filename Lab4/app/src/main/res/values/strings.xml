@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Media Player</string>
+    <string name="find_audio">CHOOSE AUDIO FILE</string>
+    <string name="find_video">CHOOSE VIDEO FILE</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="current_soundtrack">Current Soundtrack:</string>
+    <string name="current_video">Current Video:</string>
+</resources>

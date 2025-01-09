@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="filter_btn">OK</string>
+    <string name="list_label">List of books</string>
+    <string name="years_label">Choose publishing year:</string>
+
+</resources>

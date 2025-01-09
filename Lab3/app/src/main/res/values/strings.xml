@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books For You!</string>
+    <string name="filter_btn">OK</string>
+    <string name="open_btn">OPEN</string>
+    <string name="list_label">List of books</string>
+    <string name="years_label">Choose publishing year:</string>
+</resources>
